@@ -15,7 +15,7 @@ class _AjoutArticlePageState extends State<AjoutArticlePage> {
         title: const Text('Ajouter un article'),
       ),
       body: const Center(
-        child: Text('Page Liste des articles !'),
+        child: Text("Page d'ajout d'article !"),
       ),
     );
   }
